@@ -163,6 +163,9 @@ func init() {
 			}, {
 				Value: "sa-east-1",
 				Help:  "South America (Sao Paulo) Region\nNeeds location constraint sa-east-1.",
+			}, {
+				Value: "cn-north-1",
+				Help:  "North China (Bei Jing) Region\nNeeds location constraint cn-north-1.",
 			}},
 		}, {
 			Name:     "region",
